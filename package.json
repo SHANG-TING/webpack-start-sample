@@ -1,0 +1,25 @@
+{
+  "name": "webpack-start-sample",
+  "version": "1.0.0",
+  "description": "建立 webpack 初始專案",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SHANG-TING/webpack-start-sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SHANG-TING/webpack-start-sample/issues"
+  },
+  "homepage": "https://github.com/SHANG-TING/webpack-start-sample#readme",
+  "dependencies": {
+    "rxjs": "^6.3.1",
+    "ts-loader": "^4.5.0",
+    "typescript": "^3.0.3"
+  }
+}
